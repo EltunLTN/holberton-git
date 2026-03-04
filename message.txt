@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Change from main
-=======
+
 Change feature branch
->>>>>>> origin/main
